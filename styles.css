@@ -1,0 +1,26 @@
+#eightball {
+  background-color:black;
+  border-radius:300px;
+  border-color:black;
+  width:300px;
+  height:300px;
+}
+#window {
+  background-color:blue;
+  border-radius:100px;
+  border-color:blue;
+  width:100px;
+  height:100px;
+  left:0;
+  top:0;
+  bottom:0;
+  right:0;
+  margin:auto;
+  position:relative;
+}
+#text {
+  display:block;
+    left:0;
+  padding:25px;
+  color:white;
+}
